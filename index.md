@@ -3,6 +3,4 @@ This is where I'll eventually put interesting things I've done. Right now I'm le
 ### Contact
 Discord: zashlyte#3630
 
-Email: cmw28@scasd.org
-
 Matrix: @zashlyte:matrix.org
